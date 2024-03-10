@@ -1,0 +1,9 @@
+nav{
+	height: 30px;
+}
+body {
+	background-repeat: no-repeat;
+	background-image: url('NB.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
